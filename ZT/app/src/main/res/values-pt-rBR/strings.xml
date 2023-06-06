@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZeroTrash</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="remember">Lembrar</string>
+    <string name="login">Login</string>
+    <string name="msgError">Usuário incorreto</string>
+</resources>
